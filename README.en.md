@@ -1,6 +1,8 @@
 ## Python - 100天从新手到大师
 
 > **author**：庄小焱
+> 
+> https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 
 ### Python应用领域和职业发展分析
 
